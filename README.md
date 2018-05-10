@@ -98,10 +98,8 @@
 
 ## 联系(Contact)
 
-- Email：`gitnavi@qq.com`
-- Blog（有微信联系方式）：<http://YouMeek.com>
-- IntelliJ IDEA QQ 交流群，具体请看：[入群条件说明](https://github.com/judasn/IntelliJ-IDEA-Java-Conversation)
-- 欢迎捐赠 ^_^：<http://www.youmeek.com/donate>
+- Email：`845886914@qq.com`
+- Blog（有微信联系方式）：<https://blog.csdn.net/Pc_Jc>
 
 
 ## Github 协同视频教程(Participate)
