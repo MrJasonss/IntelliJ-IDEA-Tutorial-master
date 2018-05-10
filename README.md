@@ -104,6 +104,9 @@
 
 ## Github 协同视频教程(Participate)
 
+
+## Github 协同视频教程学习体会
+
 - 如果您不会使用 Git 或是 Github 也没关系，请认真学习下面视频教程：
 - YouMeek 录制
     - 视频格式：MP4
